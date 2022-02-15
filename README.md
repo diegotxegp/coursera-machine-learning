@@ -1,3 +1,3 @@
-Machine Learning \n
-Coursera \n
-Andrew Ng \n
+Machine Learning
+Coursera
+Andrew Ng
